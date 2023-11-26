@@ -16,4 +16,4 @@ Smart Contract Creation.
 Running Application.
 1. Open the terminal and change the directory appropriate folder.
 2. Do "yarn install" to install the required packages.
-3."yarn start" to keep the application running.
+3. "yarn start" to keep the application running.
